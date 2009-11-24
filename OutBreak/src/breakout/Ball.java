@@ -159,42 +159,42 @@ public class Ball extends JPanel {
 
     @Override
     public void paintComponent(Graphics gfx) {
-        //draw labels
+
         locationLabel.setText("Position " + (int) ballPos.getX() + " , " + (int) ballPos.getY());
         int vx = (int) (ballVel.getX() * 1000);
         int vy = (int) (ballVel.getY() * 1000);
         directionLabel.setText("Velocity " + vx + " , " + vy);
         lifeLabel.setText("Life: " + lifeCounter);
 
-        // erase everything
+
         gfx.setColor(backgroundColor);
         gfx.fillRect(0, 0, panelWidth - 1, panelHeight - 1);
 
-        // draw ground
+
         gfx.setColor(foreGroundColor);
         gfx.fillOval(0, 0, panelWidth, panelHeight);
 
-        // draw paddle
+
         gfx.setColor(paddleColor);
         gfx.fillArc((int) paddlePos.getX() - paddleWidth / 2, deathTop, paddleWidth, paddleWidth, 0, 180);
 
-        // draw death space
+
         gfx.setColor(hellColor);
         Graphics2D g2d = (Graphics2D) gfx;
         Arc2D ch7 = new Arc2D.Double();
         ch7.setArc(0, 0, panelWidth + .2, panelHeight + .2, 220, 100, Arc2D.CHORD);
         g2d.fill(ch7);
 
-        // update ball's location
+
         if (isRunning && !isGameOver) {
             ballPos.add(ballVel);
         }
 
-        // draw ball
+
         gfx.setColor(ballColor);
         gfx.fillOval((int) ballPos.getX() - ballSize / 2, (int) ballPos.getY() - ballSize / 2, ballSize, ballSize);
 
-        // draw bricks
+
         for (int i = 0; i < staticCounter; i++) {
             if (i % 2 == 1) {
                 gfx.setColor(Color.pink);
@@ -211,7 +211,7 @@ public class Ball extends JPanel {
             }
         }
 
-        // Collision Detection with walls
+
         if (ballPos.getDiff(PanelCenter) >= ((panelHeight - ballSize) / 2 * (panelWidth - ballSize) / 2)) {
             if (isRunning && !isGameOver) {
                 ballPos.sub(ballVel);
@@ -240,7 +240,7 @@ public class Ball extends JPanel {
             return;
         }
 
-        // Collision Detection with Paddle
+
         if (ballPos.getDiff(paddlePos) <= ((paddleWidth + ballSize) / 2 * (paddleWidth + ballSize) / 2 + 1) && !isPaddled) {
             if (isRunning && !isGameOver) {
                 ballPos.sub(ballVel);
@@ -255,7 +255,7 @@ public class Ball extends JPanel {
             return;
         }
 
-        // draw message and update paddle
+
         if (isDemo && !isGameOver) {
             gfx.setColor(demoMsgColor);
             gfx.drawString("~~ Demo ~~", panelWidth / 2, panelHeight / 2);
@@ -263,7 +263,7 @@ public class Ball extends JPanel {
 
         }
 
-        // Collision Detection with DeathPanel
+
         if (ballPos.getY() >= deathTop + paddleWidth / 2 - ballSize / 2 && !isGameOver) {
             lifeCounter--;
             if (lifeCounter == 0) {
@@ -275,7 +275,7 @@ public class Ball extends JPanel {
 
         }
 
-        // Collision Detection with Bricks
+
         for (int i = 0; i < staticCounter; i++) {
             isBricked = (Boolean) bricksExist.get(i);
             if (isBricked) {
@@ -306,8 +306,6 @@ public class Ball extends JPanel {
             }
         }
     }
-
-
     private int panelWidth;
     private int panelHeight;
     private int ballSize = 30;
@@ -317,39 +315,31 @@ public class Ball extends JPanel {
     private int deathTop = 232;
     private int lifeCounter;
     private int radius;
-
     private double x;
     private double y;
-
     private Color backgroundColor = Color.black;
     private Color foreGroundColor = Color.white;
     private Color ballColor = Color.gray;
     private Color paddleColor = Color.blue;
     private Color hellColor = Color.red;
     private Color demoMsgColor = Color.green;
-    
     private TwoDVector ballPos;
     private TwoDVector ballVel;
     private TwoDVector PanelCenter;
     private TwoDVector normVec;
     private TwoDVector paddlePos;
     private TwoDVector pos;
-    
     private JLabel locationLabel;
     private JLabel directionLabel;
     private JLabel lifeLabel;
-
     private Vector brickPos;
     private Vector brickRadius;
     private Vector bricksExist;
-    
     private Win wFrame;
     private Lose lFrame;
-
     private boolean isPaddled;
     private boolean isRunning;
     private boolean isGameOver;
     private boolean isDemo;
     private boolean isBricked;
-    
 }

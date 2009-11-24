@@ -1,13 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/*
- * uiwindow.java
- *
- * Created on Nov 3, 2009, 12:23:24 PM
- */
 package breakout;
 
 import java.awt.event.KeyAdapter;
@@ -229,7 +219,7 @@ public class UIWindow extends javax.swing.JFrame {
         }
 
         public void setDelay(int delay) {
-            uptDelay = delay; // does not have to be sychronized
+            uptDelay = delay; 
         }
 
         @Override
@@ -239,14 +229,13 @@ public class UIWindow extends javax.swing.JFrame {
                 try {
                     sleep(uptDelay);
                 } catch (InterruptedException ie) {
-                    // do nothing here
+                    
                 }
             }
         }
     }
 
-    class Keys extends KeyAdapter //handle keys
-    {
+    class Keys extends KeyAdapter{
 
         @Override
         public void keyPressed(KeyEvent evt) {
