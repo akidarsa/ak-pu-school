@@ -1,0 +1,8 @@
+To run the server program, type:
+
+java -jar sirtet.jar
+
+The server will be listening on port 9462 after running.
+Currently the server only accept "GAMETYPE=tetris" requests.  
+Support for "GAMETYPE=tetris-qualifier" will be added soon.  
+Please check the Blackboard discussions regularly for update.

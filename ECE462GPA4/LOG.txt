@@ -1,0 +1,467 @@
+New won, average: 10 dif: 1 Modifiers: 11 20 3 4
+Cur won, average: 20 dif: 7
+ Modifiers: 11 20 3 4
+New won, average: 19 dif: 9 Modifiers: 11 20 4 4
+New won, average: 16 dif: 7 Modifiers: 11 20 4 5
+Cur won, average: 20 dif: 5
+ Modifiers: 11 20 4 5
+New won, average: 19 dif: 4 Modifiers: 11 19 4 5
+New won, average: 17 dif: 0 Modifiers: 11 19 3 5
+New won, average: 20 dif: 14 Modifiers: 12 19 3 5
+Cur won, average: 13 dif: 1
+ Modifiers: 12 19 3 5
+New won, average: 23 dif: 7 Modifiers: 12 19 4 5
+Cur won, average: 20 dif: 6
+ Modifiers: 12 19 4 5
+New won, average: 15 dif: 2 Modifiers: 11 19 4 5
+--change to only modifying first 2--
+
+Cur won, average: 13 dif: 1
+ Modifiers: 14 16 4 5
+Cur won, average: 24 dif: 2
+ Modifiers: 14 16 4 5
+New won, average: 21 dif: 2 Modifiers: 13 16 4 5
+New won, average: 22 dif: 5 Modifiers: 13 15 4 5
+Cur won, average: 22 dif: 1
+ Modifiers: 13 15 4 5
+New won, average: 21 dif: 1 Modifiers: 13 16 4 5
+New won, average: 18 dif: 1 Modifiers: 12 16 4 5
+New won, average: 19 dif: 6 Modifiers: 12 15 4 5
+Cur won, average: 23 dif: 8
+ Modifiers: 12 15 4 5
+New won, average: 18 dif: 1 Modifiers: 12 16 4 5
+Cur won, average: 18 dif: 5
+ Modifiers: 12 16 4 5
+New won, average: 11 dif: 1 Modifiers: 12 15 4 5
+Cur won, average: 21 dif: 1
+ Modifiers: 12 15 4 5
+New won, average: 21 dif: 5 Modifiers: 12 16 4 5
+New won, average: 13 dif: 1 Modifiers: 11 16 4 5
+New won, average: 15 dif: 2 Modifiers: 11 15 4 5
+Cur won, average: 26 dif: 13
+ Modifiers: 11 15 4 5
+New won, average: 23 dif: 0 Modifiers: 11 16 4 5
+Cur won, average: 22 dif: 3
+ Modifiers: 11 16 4 5
+New won, average: 19 dif: 4 Modifiers: 11 15 4 5
+Cur won, average: 21 dif: 6
+ Modifiers: 11 15 4 5
+Cur won, average: 15 dif: 4
+ Modifiers: 11 15 4 5
+New won, average: 19 dif: 6 Modifiers: 10 15 4 5
+New won, average: 29 dif: 14 Modifiers: 10 14 4 5
+New won, average: 14 dif: 3 Modifiers: 11 14 4 5
+New won, average: 20 dif: 6 Modifiers: 11 15 4 5
+Cur won, average: 17 dif: 6
+ Modifiers: 11 15 4 5
+Cur won, average: 27 dif: 7
+ Modifiers: 11 15 4 5
+New won, average: 18 dif: 3 Modifiers: 12 15 4 5
+New won, average: 24 dif: 9 Modifiers: 12 16 4 5
+New won, average: 15 dif: 4 Modifiers: 11 16 4 5
+Cur won, average: 20 dif: 2
+ Modifiers: 11 16 4 5
+New won, average: 22 dif: 3 Modifiers: 12 16 4 5
+New won, average: 20 dif: 8 Modifiers: 12 17 4 5
+New won, average: 23 dif: 4 Modifiers: 11 17 4 5
+New won, average: 18 dif: 6 Modifiers: 11 16 4 5
+Cur won, average: 19 dif: 7
+ Modifiers: 11 16 4 5
+Cur won, average: 26 dif: 9
+ Modifiers: 11 16 4 5
+Cur won, average: 17 dif: 8
+ Modifiers: 11 16 4 5
+New won, average: 18 dif: 0 Modifiers: 11 15 4 5
+New won, average: 16 dif: 7 Modifiers: 12 15 4 5
+************** TEST WITH SEQ1 *******************************
+
+New won, average: 924 dif: 148 Modifiers: 111 150 40 50
+New won, average: 924 dif: 0 Modifiers: 112 150 40 50
+New won, average: 924 dif: 0 Modifiers: 112 150 40 50
+
+************** TEST WITH SEQ5 *******************************
+
+New won, average: 338 dif: 0 Modifiers: 113 120 40 50
+New won, average: 338 dif: 0 Modifiers: 113 121 40 50
+New won, average: 338 dif: 0 Modifiers: 113 121 41 50
+New won, average: 605 dif: 267 Modifiers: 113 121 41 51
+New won, average: 714 dif: 109 Modifiers: 112 121 41 51
+New won, average: 747 dif: 33 Modifiers: 112 120 41 51
+New won, average: 747 dif: 0 Modifiers: 112 120 40 51
+Cur won, average: 747 dif: 509
+ Modifiers: 112 120 40 51
+New won, average: 894 dif: 656 Modifiers: 113 120 40 51
+Cur won, average: 894 dif: 577
+ Modifiers: 113 120 40 51
+New won, average: 317 dif: 0 Modifiers: 113 120 41 51
+New won, average: 714 dif: 397 Modifiers: 113 120 41 52
+New won, average: 1177 dif: 463 Modifiers: 112 120 41 52
+New won, average: 1177 dif: 0 Modifiers: 112 119 41 52
+New won, average: 1177 dif: 0 Modifiers: 112 119 40 52
+New won, average: 1177 dif: 0 Modifiers: 112 119 40 51
+Cur won, average: 19 dif: 0 Winning Modifiers: 113 120 30 41 52
+Best won, average: 19 dif: 4 Winning Modifiers: 113 120 30 41 52
+Best won, average: 19 dif: 6 Winning Modifiers: 113 120 30 41 52
+Cur won, average: 20 dif: 0 Winning Modifiers: 113 120 30 42 52
+Best won, average: 20 dif: 5 Winning Modifiers: 113 120 30 42 52
+Best won, average: 20 dif: 6 Winning Modifiers: 113 120 30 42 52
+Best won, average: 20 dif: 2 Winning Modifiers: 113 120 30 42 52
+Best won, average: 20 dif: 2 Winning Modifiers: 113 120 30 42 52
+Best won, average: 20 dif: 4 Winning Modifiers: 113 120 30 42 52
+Best won, average: 20 dif: 13 Winning Modifiers: 113 120 30 42 52
+Cur won, average: 24 dif: 0 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 8 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 12 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 14 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 8 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 13 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 8 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 18 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 8 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 15 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 13 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 12 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 1 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 9 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 12 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 9 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 8 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 16 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 7 Winning Modifiers: 114 120 30 42 52
+Best won, average: 24 dif: 5 Winning Modifiers: 114 120 30 42 52
+Cur won, average: 24 dif: 0 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 12 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 6 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 11 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 14 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 7 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 9 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 14 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 14 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 9 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 15 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 11 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 12 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 5 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 7 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 11 Winning Modifiers: 114 120 31 42 52
+Best won, average: 24 dif: 14 Winning Modifiers: 114 120 31 42 52
+Cur won, average: 14 dif: 0 Winning Modifiers: 115 120 31 42 52
+Cur won, average: 0 dif: 0 Winning Modifiers: 115 120 31 42 52
+Cur won, average: 0 dif: 0 Winning Modifiers: 115 121 31 42 52
+Cur won, average: 0 dif: 0 Winning Modifiers: 115 121 32 42 52
+Cur won, average: 0 dif: 0 Winning Modifiers: 115 121 32 43 52
+Cur won, average: 0 dif: 0 Winning Modifiers: 115 121 32 43 53
+Cur won, average: 0 dif: 0 Winning Modifiers: 114 121 32 43 53
+Cur won, average: 0 dif: 0 Winning Modifiers: 114 120 32 43 53
+Cur won, average: 0 dif: 0 Winning Modifiers: 114 120 31 43 53
+Cur won, average: 0 dif: 0 Winning Modifiers: 114 120 31 42 53
+Cur won, average: 0 dif: 0 Winning Modifiers: 114 120 31 42 52
+Cur won, average: 0 dif: 0 Winning Modifiers: 115 120 31 42 52
+Cur won, average: 0 dif: 0 Winning Modifiers: 115 121 31 42 52
+Cur won, average: 0 dif: 0 Winning Modifiers: 115 121 32 42 52
+Cur won, average: 0 dif: 0 Winning Modifiers: 115 121 32 43 52
+Best won, average: 14 dif: 4 Winning Modifiers: 114 120 31 42 52
+Cur won, average: 17 dif: 0 Winning Modifiers: 114 121 31 42 52
+Cur won, average: 19 dif: 0 Winning Modifiers: 114 121 32 42 52
+Best won, average: 19 dif: 3 Winning Modifiers: 114 121 32 42 52
+Best won, average: 19 dif: 3 Winning Modifiers: 114 121 32 42 52
+Best won, average: 19 dif: 8 Winning Modifiers: 114 121 32 42 52
+Cur won, average: 21 dif: 0 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 14 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 2 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 12 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 14 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 12 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 12 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 21 dif: 4 Winning Modifiers: 114 120 32 42 52
+Cur won, average: 22 dif: 0 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 14 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 14 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 12 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 14 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 12 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 12 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 15 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 4 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 12 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 113 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 113 120 32 42 52
+Cur won, average: 22 dif: 0 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 12 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 3 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 1 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 1 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 4 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 12 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 3 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 14 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 3 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 3 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 4 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 3 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 19 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 12 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 12 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 1 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 2 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 12 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 14 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 2 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 14 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 4 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 4 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 4 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 1 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 6 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 16 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 12 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 22 dif: 10 Winning Modifiers: 114 120 32 42 52
+Cur won, average: 23 dif: 0 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 11 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 6 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 10 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 12 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 13 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 8 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 7 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 12 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 9 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 15 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 11 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 11 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 8 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 6 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 6 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 5 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 8 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 9 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 12 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 12 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 11 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 9 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 7 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 12 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 12 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 10 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 6 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 12 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 10 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 14 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 13 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 8 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 3 Winning Modifiers: 115 120 32 42 52
+Best won, average: 23 dif: 8 Winning Modifiers: 115 120 32 42 52
+Cur won, average: 23 dif: 0 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 4 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 8 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 9 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 13 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 7 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 5 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 4 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 10 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 11 Winning Modifiers: 114 120 32 42 52
+Best won, average: 23 dif: 12 Winning Modifiers: 114 120 32 42 52
+Cur won, average: 23 dif: 0 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 8 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 14 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 6 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 8 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 7 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 15 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 9 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 9 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 3 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 10 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 9 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 9 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 17 Winning Modifiers: 114 120 32 42 51
+Best won, average: 23 dif: 5 Winning Modifiers: 114 120 32 42 51
+Cur won, average: 23 dif: 0 Winning Modifiers: 114 120 32 41 51
+Best won, average: 23 dif: 10 Winning Modifiers: 114 120 32 41 51
+Best won, average: 23 dif: 13 Winning Modifiers: 114 120 32 41 51
+Best won, average: 23 dif: 14 Winning Modifiers: 114 120 32 41 51
+Best won, average: 23 dif: 11 Winning Modifiers: 114 120 32 41 51
+Cur won, average: 24 dif: 0 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 12 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 8 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 5 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 7 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 5 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 9 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 8 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 4 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 8 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 6 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 14 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 14 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 12 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 7 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 15 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 6 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 12 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 5 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 13 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 6 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 7 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 4 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 11 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 7 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 16 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 4 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 18 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 10 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 12 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 12 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 16 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 8 Winning Modifiers: 114 120 32 42 51
+Best won, average: 24 dif: 7 Winning Modifiers: 114 120 32 42 51
