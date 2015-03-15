@@ -1,0 +1,1 @@
+This is where I will post my various school projects. reason for doing this is so that I will (hopefully) always have a back up copy of what I did in school. This might actually end up useful one day.
